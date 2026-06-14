@@ -1,4 +1,4 @@
-AnkiTabs - Swipe through your knowledge, one tab at a time.
+# AnkiTabs - Swipe through your knowledge, one tab at a time.
 Flip between multiple content tabs right inside your Anki cards. No more cramming everything onto one side, organize any topic into clean, focused tabs like Symptoms, Pathophysiology, and Treatment. Each tab holds its own content, its own cloze, and its own space to think. Study smarter. One tab at a time.
 
 How to use:
